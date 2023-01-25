@@ -1,0 +1,15 @@
+C:\Users\echol\source\repos\replhex\replhex\bin\Debug\net6.0\replhex.exe
+C:\Users\echol\source\repos\replhex\replhex\bin\Debug\net6.0\replhex.deps.json
+C:\Users\echol\source\repos\replhex\replhex\bin\Debug\net6.0\replhex.runtimeconfig.json
+C:\Users\echol\source\repos\replhex\replhex\bin\Debug\net6.0\replhex.dll
+C:\Users\echol\source\repos\replhex\replhex\bin\Debug\net6.0\replhex.pdb
+C:\Users\echol\source\repos\replhex\replhex\obj\Debug\net6.0\replhex.vbproj.AssemblyReference.cache
+C:\Users\echol\source\repos\replhex\replhex\obj\Debug\net6.0\replhex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\echol\source\repos\replhex\replhex\obj\Debug\net6.0\replhex.AssemblyInfoInputs.cache
+C:\Users\echol\source\repos\replhex\replhex\obj\Debug\net6.0\replhex.AssemblyInfo.vb
+C:\Users\echol\source\repos\replhex\replhex\obj\Debug\net6.0\replhex.vbproj.CoreCompileInputs.cache
+C:\Users\echol\source\repos\replhex\replhex\obj\Debug\net6.0\replhex.dll
+C:\Users\echol\source\repos\replhex\replhex\obj\Debug\net6.0\refint\replhex.dll
+C:\Users\echol\source\repos\replhex\replhex\obj\Debug\net6.0\replhex.pdb
+C:\Users\echol\source\repos\replhex\replhex\obj\Debug\net6.0\replhex.genruntimeconfig.cache
+C:\Users\echol\source\repos\replhex\replhex\obj\Debug\net6.0\ref\replhex.dll
